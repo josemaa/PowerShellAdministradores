@@ -13,3 +13,4 @@ Tenemos los datos de los usuarios en un archivo llamado: usuarios.csv, que lo po
 
 Creación de un script que nos facilite la eliminación masiva de usuarios.
 Tenemos los datos de los usuarios en un archivo llamado: usuarios.csv, que lo podemos realizar con el bloc de notas.
+g
